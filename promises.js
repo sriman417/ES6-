@@ -15,9 +15,9 @@ const userData = new Promise((resolve, reject) => {
         reject('500 Level Error');
     } else {
         resolve({
-            firstName: 'Teja',
-            age: 19,
-            email: 'tejasri@gmail.com'
+            firstName: 'nani',
+            age: 22,
+            email: 'naani734@gmail.com'
         });
     }
 });
